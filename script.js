@@ -5,7 +5,7 @@ localStorage.setItem("age", '25')
 localStorage.setItem("lastName", "Singh")
 localStorage.setItem("Country", "India")
 localStorage.setItem("State", "Punjab")
-console.log(window)
+console.log(localStorage)
 
 
 //Challenge 2: Get the users data stored on your browser's localStorage using the getItem() method and print the localStorage in the console.
